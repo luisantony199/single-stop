@@ -1,0 +1,52 @@
+body{
+  background-color: #213042;
+  color: #FFFFFF;
+  font-family: "Josefin Slab", "Trebuchet MS", Helvetica, sans-serif;
+  padding: 20px;
+}
+#banner{
+  background-color: #3CD152;
+  padding: 10px 50px 30px 20px;
+  font-size: 36px;
+  text-align: right;
+}
+#banner img{
+  float:left;
+  display:block;
+}
+.topnav{
+    background-color: #3CD152;
+    overflow: hidden;
+}
+.topnav a{
+    float: left;
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 28px;
+}
+.topnav a:hover {
+    background-color: #FFFFFF;
+    opacity: .3;
+    color: black;
+}
+p{
+  font-size: 20px
+}
+h2{
+  text-align: center;
+}
+a{
+  color:#8C271E;
+  font-size: 20px;
+}
+.highlight{
+  font-size:28px;
+  color:#3cd152;
+}
+.banners{
+  width:100%;
+  height: auto;
+}
